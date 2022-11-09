@@ -48,8 +48,9 @@ li{
     list-style: none;
     font-size: 20px;
     text-align:cnter;
-    font-weight: bold;
-    -webkit-text-stroke-width: 2px;
+
+    -webkit-text-stroke-width: 1px;
+	
   
 }
 li:before{
